@@ -28,7 +28,3 @@ header {
     font-size: 12px;
 }
 
-a, a:hover {
-    text-decoration: none;
-    color: unset;
-  }
