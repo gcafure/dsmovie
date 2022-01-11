@@ -1,7 +1,9 @@
+import Pagination from "components/Navbar/Pagination";
+
 function Listing(){
     return (
-        <h1>eoq </h1>
-    )
+        <Pagination />
+    );
 }
 
 export default Listing;
